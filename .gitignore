@@ -3,5 +3,8 @@ logs
 *.log
 npm-debug.log*
 
+# TEST
 # Dependency directoris
 node_modules/
+
+# Runtime data
